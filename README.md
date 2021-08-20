@@ -1,16 +1,19 @@
-### Hi there 👋
+#  🎉 HELLO WORLD 🎉
 
-<!--
-**Warrior-storm/Warrior-storm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me 💻
+---------------------------------------------------------
+👨‍💻 I'm a passionate Frontend Developer
 
-Here are some ideas to get you started:
+🌱 I'm currently learning about JS and English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💙 But I always like to practice the things i know
+
+🌟 If you have a proyect to do see me in this discord --> https://discord.gg/kQzcakKP
+
+📫 You can contact me by Github
+
+🗨️ Send me a message for talk ☕
+
+🧐 Interesting fact ---> We never finish to create when us creativity is over.
+
+🔥🔥“Creativity is about connecting things. When you ask creative people how they did something, they feel a little guilty that they didn't really do it, they just saw it. It seemed obvious to them after a while. "🤓🤪
